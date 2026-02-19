@@ -1,6 +1,7 @@
 # Mempool Monitor
 
 Real-time Ethereum mempool scanner for Uniswap V2/V3 swap transactions. Subscribes to Alchemy WebSocket and filters DEX activity.
+<img width="698" height="428" alt="image" src="https://github.com/user-attachments/assets/0a7ef723-5fa4-4178-b956-714f7209b20d" />
 
 ## Features
 
